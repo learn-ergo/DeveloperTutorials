@@ -1,0 +1,11 @@
+.DS_STORE
+
+config.json
+
+target/
+.vscode/
+.metals
+project/project/
+
+mint-token/
+sigma-rust/

@@ -1,0 +1,14 @@
+{
+    "node": {
+      "nodeApi": {
+        "apiUrl": "",
+        "apiKey": ""
+      },
+      "wallet": {
+        "mnemonic": "",
+        "password": "",
+        "mnemonicPassword": ""
+      },
+      "networkType": ""
+    }
+}
