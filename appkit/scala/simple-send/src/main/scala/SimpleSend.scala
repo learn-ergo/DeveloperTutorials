@@ -34,7 +34,7 @@ object SimpleSend {
 
       val signed = prover.sign(tx)
       val transactionInfo = signed.toJson(true)
-      // ctx.sendTransaction(signed)
+      ctx.sendTransaction(signed)
       transactionInfo
     })
     println(transactionInfo)
